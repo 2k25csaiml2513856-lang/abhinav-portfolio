@@ -1,10 +1,24 @@
-# 🚀 Abhinav Portfolio
+# 🚀 Shan Portfolio
 
 <div align="center">
 
 ### Modern • Fast • Responsive • Creative
 
 A premium personal portfolio built with modern frontend technologies, smooth animations, and a clean UI to showcase projects, skills, and experience.
+
+<p>
+  <a href="https://shan-portfolioo.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/shajith23/shan-portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/github/stars/shajith23/shan-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/shajith23/shan-portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/shajith23/shan-portfolio?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
@@ -14,11 +28,11 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 ### 🔗 Live Website
 
-
+**https://shan-portfolioo.netlify.app**
 
 ### 💻 GitHub Repository
 
-
+**https://github.com/shajith23/shan-portfolio**
 
 ---
 
@@ -368,15 +382,15 @@ This project is available for personal and commercial portfolio use.
 
 # 👨‍💻 Developer
 
-**abhinav ( inspired by shan)**
+**Shajith (Shan)**
 
 ### Portfolio
 
-
+https://shan-portfolioo.netlify.app
 
 ### GitHub
 
-
+https://github.com/shajith23
 
 ---
 
